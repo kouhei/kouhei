@@ -1,9 +1,11 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouhei&layout=compact&theme=nord
-)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouhei&theme=nord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouhei&layout=compact&theme=nord#gh-dark-mode-only
+)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouhei&layout=compact#gh-light-mode-only
+)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouhei&theme=nord&count_private=true&show_icons=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouhei&count_private=true&show_icons=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 **kouhei/kouhei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
