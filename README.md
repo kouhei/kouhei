@@ -1,7 +1,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouhei&layout=compact&theme=nord#gh-dark-mode-only" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kouhei&theme=nord&count_private=true&show_icons=true" />
+<!--   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kouhei&theme=nord&count_private=true&show_icons=true" /> -->
 </p>
 
 
